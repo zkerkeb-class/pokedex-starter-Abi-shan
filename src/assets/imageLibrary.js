@@ -26,7 +26,7 @@ import pikachu from "./pokemons/25.png";
 import raichu from "./pokemons/26.png";
 import sandshrew from "./pokemons/27.png";
 import sandslash from "./pokemons/28.png";
-import nidoranF from "./pokemons/29.png";
+import nidoran from "./pokemons/29.png";
 import nidorina from "./pokemons/30.png";
 import nidoqueen from "./pokemons/31.png";
 import nidoranM from "./pokemons/32.png";

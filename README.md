@@ -141,7 +141,7 @@ PORT=3000
 MONGO_URI=mongodb://localhost:27017/pokedex
 JWT_SECRET=supersecret
 📸 Démo Vidéo
-📺 [Lien YouTube à insérer ici]
+📺 [(https://youtu.be/Oe8zZBPd5Mk)]
 Montre : login/register → pokedex → favoris → comparateur → jeu interactif
 
 📌 Résumé des Fonctionnalités Réalisées
